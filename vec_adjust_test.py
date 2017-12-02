@@ -1,3 +1,11 @@
+'''
+vec_adjust_test.py
+
+Copyright (c) 2017 Satoshi Otani
+
+This software is released under the MIT License.
+http://opensource.org/licenses/mit-license.php
+'''
 #! -*- coding:utf-8 -*-
 import math
 import numpy as np

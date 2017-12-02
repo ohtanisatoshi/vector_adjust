@@ -1,3 +1,9 @@
+This software is released under the MIT License, see LICENSE.txt.
+
+
+
+
+
 あるベクトルとあるベクトルの類似度を調整する
 
 ベクトルaがベクトルnと類似している（コサイン類似度が高い）という結果がでた場合
@@ -18,6 +24,7 @@ V1, Ca1
 V2, Ca2
 …
 Vn, Can
+
 
 
 
